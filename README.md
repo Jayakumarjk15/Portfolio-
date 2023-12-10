@@ -32,24 +32,33 @@ You can view a live demo of my portfolio [here](https://jayakumarjk15.github.io/
 ## Setup
 
 1.Open in a Browser:
+
 Open the index.html file in your preferred web browser to view the portfolio.
 
 2.Customize:
+
 Replace placeholder content in the HTML files with your own information.
 Modify the styles in the styles.css file to match your preferences.
 
 3.Deploy (Optional):
+
 If you want to deploy your portfolio, consider using platforms like GitHub Pages, Netlify, or Vercel.
 
 ## Project Structure
+
 index.html: Main HTML file containing the structure of the portfolio.
+
 portfolio.css: CSS file for styling the portfolio.
+
 script.js: JavaScript file for interactive elements.
 
+
 ## Contributing
+
 If you have any suggestions, improvements, or want to report issues, feel free to create a pull request or open an issue.
 
 ## License
+
 MIT License
 
 Copyright (c) 2023 Jayakumarjk15
