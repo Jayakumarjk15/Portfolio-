@@ -44,15 +44,15 @@ Modify the styles in the styles.css file to match your preferences.
 Deploy (Optional):
 If you want to deploy your portfolio, consider using platforms like GitHub Pages, Netlify, or Vercel.
 
-##Project Structure
+## Project Structure
 index.html: Main HTML file containing the structure of the portfolio.
 portfolio.css: CSS file for styling the portfolio.
 script.js: JavaScript file for interactive elements.
 
-##Contributing
+## Contributing
 If you have any suggestions, improvements, or want to report issues, feel free to create a pull request or open an issue.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Make sure to replace placeholders like `yourusername` with your actual GitHub username and update any other information to suit your project. Additionally, include details about your specific projects, skills, and experiences in the respective sections.
