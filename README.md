@@ -31,17 +31,14 @@ You can view a live demo of my portfolio [here](https://jayakumarjk15.github.io/
 
 ## Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
-Open in a Browser:
+1.Open in a Browser:
 Open the index.html file in your preferred web browser to view the portfolio.
 
-Customize:
-
+2.Customize:
 Replace placeholder content in the HTML files with your own information.
 Modify the styles in the styles.css file to match your preferences.
-Deploy (Optional):
+
+3.Deploy (Optional):
 If you want to deploy your portfolio, consider using platforms like GitHub Pages, Netlify, or Vercel.
 
 ## Project Structure
